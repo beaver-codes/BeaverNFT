@@ -1,0 +1,17 @@
+{
+    "tokenId": 0,
+    "name": "Beaver NFT #0",
+    "description": "Beaver NFTs are great",
+    "image": "TODO",
+    "external_url": "https://github.com/beaver-codes/BeaverNFT",
+    "attributes": [
+        {
+            "trait_type": "Hardworking",
+            "value": 100
+        },
+        {
+            "trait_type": "Efficient",
+            "value": 20
+        }
+    ]
+}
