@@ -1,0 +1,17 @@
+{
+    "tokenId": 0,
+    "name": "Beaver NFT",
+    "description": "Beavers are the best engineers",
+    "image": "TODO",
+    "external_url": "https://www.youtube.com/channel/UCePeDU9mQ8PkUZT7F3-0_tA",
+    "attributes": [
+        {
+            "trait_type": "Hardworking",
+            "value": "100"
+        },
+        {
+            "trait_type": "Coolness",
+            "value": "60"
+        }
+    ]
+}
