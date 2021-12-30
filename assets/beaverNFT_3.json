@@ -1,8 +1,8 @@
 {
-    "tokenId": 0,
-    "name": "Beaver NFT #0",
+    "tokenId": 3,
+    "name": "Beaver NFT #3",
     "description": "Beaver NFTs are great",
-    "image": "https://raw.githubusercontent.com/beaver-codes/BeaverNFT/master/assets/beaverNFT_0.png",
+    "image": "https://raw.githubusercontent.com/beaver-codes/BeaverNFT/master/assets/beaverNFT_3.png",
     "external_url": "https://github.com/beaver-codes/BeaverNFT",
     "attributes": [
         {
