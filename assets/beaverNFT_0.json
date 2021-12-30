@@ -2,7 +2,7 @@
     "tokenId": 0,
     "name": "Beaver NFT",
     "description": "Beavers are the best engineers",
-    "image": "TODO",
+    "image": "https://raw.githubusercontent.com/beaver-codes/BeaverNFT/test/assets/beaverNFT_0.png",
     "external_url": "https://www.youtube.com/channel/UCePeDU9mQ8PkUZT7F3-0_tA",
     "attributes": [
         {
