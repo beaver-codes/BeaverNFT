@@ -19,7 +19,7 @@
  */
 
 const HDWalletProvider = require('@truffle/hdwallet-provider');
-const { privateKeys, infuraURL } = require('./secrets.js')
+const { privateKeys, infuraURL, infuraEthURL } = require('./secrets.js')
 
 module.exports = {
   /**
@@ -58,6 +58,10 @@ module.exports = {
     rinkeby: {
       provider: () => new HDWalletProvider({ privateKeys: privateKeys, url: infuraURL }),
       network_id: 4,
+    },
+    eth: {
+      provider: () => new HDWalletProvider({ privateKeys: privateKeys, url: infuraEthURL }),
+      network_id: 1,
     },
     // Useful for private networks
     // private: {
